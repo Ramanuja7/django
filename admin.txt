@@ -1,0 +1,6 @@
+cd project file
+python manage.py create superuser 
+username
+email
+password 
+python manage.py runserver
