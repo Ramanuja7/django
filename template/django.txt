@@ -1,0 +1,10 @@
+introduction to django
+apps and templates
+models and migrations
+django orm
+django admin
+pages,urls,slugfields
+media processing ,image processing
+user registration
+user login.logout and auth
+authorization
