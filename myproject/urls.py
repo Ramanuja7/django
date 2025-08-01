@@ -28,6 +28,7 @@ urlpatterns = [
     #path('home/',views.home),
     #path('',myapphome,name='myapphone')
     path('contact/',include('app.urls')),
+    path('register/',views.register,name='register'),
     
 
 ]
